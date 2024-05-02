@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/my-cogs125-app/static/css/main.9e64b7dc.css",
-    "main.js": "/my-cogs125-app/static/js/main.29c6dee7.js",
+    "main.js": "/my-cogs125-app/static/js/main.785c6a8c.js",
     "static/js/453.2a8270ce.chunk.js": "/my-cogs125-app/static/js/453.2a8270ce.chunk.js",
     "index.html": "/my-cogs125-app/index.html",
     "main.9e64b7dc.css.map": "/my-cogs125-app/static/css/main.9e64b7dc.css.map",
-    "main.29c6dee7.js.map": "/my-cogs125-app/static/js/main.29c6dee7.js.map",
+    "main.785c6a8c.js.map": "/my-cogs125-app/static/js/main.785c6a8c.js.map",
     "453.2a8270ce.chunk.js.map": "/my-cogs125-app/static/js/453.2a8270ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e64b7dc.css",
-    "static/js/main.29c6dee7.js"
+    "static/js/main.785c6a8c.js"
   ]
 }
